@@ -1,0 +1,2 @@
+C:\Users\grey man\source\repos\chatix\Debug\chatix.exe
+C:\Users\grey man\source\repos\chatix\Debug\chatix.pdb

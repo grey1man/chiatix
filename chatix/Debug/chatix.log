@@ -1,0 +1,8 @@
+﻿  chatix.cpp
+C:\Users\grey man\source\repos\chatix\chatix.cpp(99,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\grey man\source\repos\chatix\chatix.cpp(142,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\grey man\source\repos\chatix\chatix.cpp(61): warning C4715: init_socket: значение возвращается не при всех путях выполнения
+C:\Users\grey man\source\repos\chatix\chatix.cpp(89): warning C4715: listen_: значение возвращается не при всех путях выполнения
+C:\Users\grey man\source\repos\chatix\chatix.cpp(79): warning C4715: bind_socket: значение возвращается не при всех путях выполнения
+C:\Users\grey man\source\repos\chatix\chatix.cpp(119): warning C4715: accept_: значение возвращается не при всех путях выполнения
+  chatix.vcxproj -> C:\Users\grey man\source\repos\chatix\Debug\chatix.exe
